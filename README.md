@@ -1,0 +1,1 @@
+This is a simple command-line To-Do List Manager written in C. It allows users to manage multiple categories, each containing its own list of tasks. Tasks have priorities, and are displayed in descending order of priority (high to low) within each category.
